@@ -1,0 +1,26 @@
+---
+title: "index"
+author: "Adelaide Cutler"
+format:
+  html:
+    toc: true
+    code-fold: true
+    theme: cerulean
+    embed-resources: true
+    backgroundcolor: "pink"
+execute:
+  echo: true
+  freeze: auto
+---
+
+# about me
+
+I am Adelaide.
+
+# image
+
+![gift](R/gift.jpg)
+
+# link to lab 7
+
+[lab 7](Lab7AdelaideCutler.html)
